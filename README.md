@@ -68,6 +68,23 @@ $mokeaigc-v25
 保留同一人物、地点和事件，给出 4 种构图，画幅 4:3。
 ```
 
+#### 构图案例 · 金色光环与海蚀崖
+
+以一张参考图为起点，保留光环、垂直光丝与冷色海岸，用 ImageGen 生成同一场景的九种取景。
+
+![金色光环与海蚀崖的九种构图总览](https://github.com/user-attachments/assets/7aa2df99-2ba1-42a3-b812-ddc0bff31e38)
+
+<details>
+<summary>查看九张全尺寸单图</summary>
+
+[01 远景建立](https://github.com/user-attachments/assets/93fa92c9-6a47-44ae-b5e7-a9f6cd2bb707) · [02 贴水低机位](https://github.com/user-attachments/assets/6fe59d7d-0ee0-48cd-a130-8f12c8b12d35) · [03 崖顶斜俯拍](https://github.com/user-attachments/assets/2e4e6c26-77e9-48f9-9a2c-c835b5ddd270)
+
+[04 掠射侧视](https://github.com/user-attachments/assets/b2410706-2146-463f-adbc-7b5c93d8b97b) · [05 长焦叠景](https://github.com/user-attachments/assets/5cedfcb1-72a9-4d4b-a910-4087139b48f6) · [06 光丝局部](https://github.com/user-attachments/assets/b1fc475e-72b4-4aa8-992f-4295bd77f68e)
+
+[07 潮池倒影](https://github.com/user-attachments/assets/10145f66-c093-49ee-a33b-1dd95f33ba21) · [08 岩壁框景](https://github.com/user-attachments/assets/dcd688b6-b531-4df5-90b7-95ab78807318) · [09 偏置留白](https://github.com/user-attachments/assets/14dd9708-7a44-4d4a-a214-fec4610cbd37)
+
+</details>
+
 ### 风格库与交付设置
 
 - **65 项视觉选项**包括 63 个可直接使用的预设，以及 `39`、`49` 两个需要指定作品、分集或参考图的入口。可请求查看完整列表，或按题材推荐最多三项。风格库索引在技能包内的 `references/style-index.md`。
